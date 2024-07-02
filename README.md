@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @OmarDarwishh
-- 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning ...
 - 📫 How to reach me : omar.darwish@student.guc.edu.eg
 
 <!---
